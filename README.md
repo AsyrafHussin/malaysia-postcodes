@@ -10,7 +10,18 @@ Postcodes, City and State are displayed in **JSON** in these following formats
    "city": [
        {
         "name": "Pasir Mas",
-        "postcode": ["17070"]
+        "postcode": [
+            "17000",
+            "17007",
+            "17009",
+            "17010",
+            "17020",
+            "17030",
+            "17040",
+            "17050",
+            "17060",
+            "17070"
+        ]
        }
    ]
 }
