@@ -54,3 +54,7 @@ Postcodes, City and State are displayed in **JSON** in these following formats
 ## Contributing
 
 If you spot any errors, typos or missing information, please submit a pull request.
+
+## License
+
+MIT. See [LICENSE](LICENSE) for more details.
