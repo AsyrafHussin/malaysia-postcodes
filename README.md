@@ -47,6 +47,13 @@ Postcodes, City and State are displayed in **JSON** in these following formats
 - [Selangor](selangor.json)
 - [Terengganu](terengganu.json)
 
+## What's New
+
+- [Removed incorrect-length postcodes from various cities (2023-08-27)](CHANGELOG.md#2023-08-27)
+- [Updated previously missing postcodes for several cities in Melaka (2023-08-20)](CHANGELOG.md#2023-08-20)
+
+For full details, see the [Changelog](CHANGELOG.md).
+
 ## NPM
 
 [Install Malaysia Postcodes using NPM](https://github.com/AsyrafHussin/npm-malaysia-postcodes)
