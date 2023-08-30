@@ -1,6 +1,6 @@
 # Malaysia Postcodes
 
-List of Malaysia Postcodes with City and State (JSON)
+A Comprehensive List of Malaysia Postcodes, Complete with City and State Information in JSON Format
 
 Postcodes, City and State are displayed in **JSON** in these following formats
 
