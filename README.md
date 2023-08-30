@@ -1,10 +1,16 @@
 # Malaysia Postcodes
 
-A Comprehensive List of Malaysia Postcodes, Complete with City and State Information in JSON Format
+A Comprehensive List of Malaysia Postcodes, Complete with City and State Information, available in JSON format.
 
-Postcodes, City and State are displayed in **JSON** in these following formats
+## Overview
 
-```javascript
+This repository provides an extensive collection of Malaysia postcodes, indexed by city and state. It serves as a useful resource for developers, researchers, and anyone interested in postal data for Malaysia.
+
+## Data Structure
+
+The data is structured in JSON, and the format is as follows:
+
+```json
 {
    "name": "Kelantan",
    "city": [
@@ -49,19 +55,19 @@ Postcodes, City and State are displayed in **JSON** in these following formats
 
 ## What's New
 
+For the latest updates, see the [Changelog](CHANGELOG.md).
+
 - [Removed incorrect-length postcodes from various cities (2023-08-27)](CHANGELOG.md#2023-08-27)
 - [Updated previously missing postcodes for several cities in Melaka (2023-08-20)](CHANGELOG.md#2023-08-20)
 
-For full details, see the [Changelog](CHANGELOG.md).
-
 ## NPM
 
-[Install Malaysia Postcodes using NPM](https://github.com/AsyrafHussin/npm-malaysia-postcodes)
+For those interested in installing this dataset via NPM, you can do so with our [malaysia-postcodes](https://github.com/AsyrafHussin/npm-malaysia-postcodes) package.
 
 ## Contributing
 
-If you spot any errors, typos or missing information, please submit a pull request.
+If you find any inaccuracies, typos, or missing data, we welcome contributions! Please feel free to open an issue or submit a pull request.
 
 ## License
 
-MIT. See [LICENSE](LICENSE) for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
