@@ -57,6 +57,7 @@ The data is structured in JSON, and the format is as follows:
 
 For the latest updates, see the [Changelog](CHANGELOG.md).
 
+- [Added new postcode for TRX (Tun Razak Exchange) in Kuala Lumpur (2025-03-10)](CHANGELOG.md#2025-03-10)
 - [Removed incorrect-length postcodes from various cities (2023-08-27)](CHANGELOG.md#2023-08-27)
 - [Updated previously missing postcodes for several cities in Melaka (2023-08-20)](CHANGELOG.md#2023-08-20)
 
