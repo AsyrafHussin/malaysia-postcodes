@@ -2,6 +2,14 @@
 
 This changelog documents all notable changes to the `malaysia-postcodes` repository.
 
+## [2025-03-10]
+
+### Added
+
+- Added new postcode for TRX (Tun Razak Exchange) in Kuala Lumpur:
+  - Kuala Lumpur
+    - TRX: `55188`
+
 ## [2023-08-27]
 
 ### Removed
