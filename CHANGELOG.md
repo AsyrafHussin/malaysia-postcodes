@@ -8,6 +8,8 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 - Updated city names in Johor for accuracy:
   - Renamed "Nusajaya" to "Iskandar Puteri" to reflect official city name change
+- Updated city names in Selangor for consistency:
+  - Renamed "Klia" to "KLIA" to match official airport name format
 
 ### Removed
 
