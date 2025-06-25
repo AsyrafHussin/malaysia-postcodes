@@ -2,6 +2,18 @@
 
 This changelog documents all notable changes to the `malaysia-postcodes` repository.
 
+## [2025-06-26]
+
+### Updated
+
+- Fixed formatting in Negeri Sembilan:
+  - Fixed "Pusat  Bandar Palong" (removed extra space) to "Pusat Bandar Palong"
+
+### Removed
+
+- Removed invalid postcode entry from Negeri Sembilan:
+  - Bandar Baru Serting: `72130` (postcode does not exist - "Bandar Baru Serting" is an alternative name for "Bandar Seri Jempol")
+
 ## [2025-06-25]
 
 ### Updated
