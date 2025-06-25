@@ -2120,7 +2120,7 @@
         },
         {
           "name": "Kampar",
-          "postcode": ["31900", "31907", "31909", "31910"]
+          "postcode": ["31900", "31907", "31909", "31910", "31920", "31950"]
         },
         {
           "name": "Kampung Gajah",
@@ -2174,10 +2174,7 @@
           "name": "Malim Nawar",
           "postcode": ["31700"]
         },
-        {
-          "name": "Mambang Di Awan",
-          "postcode": ["31920", "31950"]
-        },
+
         {
           "name": "Manong",
           "postcode": ["33800"]
@@ -2216,7 +2213,7 @@
         },
         {
           "name": "Rantau Panjang",
-          "postcode": ["34140", "42160"]
+          "postcode": ["34140"]
         },
         {
           "name": "Sauk",
@@ -2231,7 +2228,7 @@
           "postcode": ["36200", "36207", "36209"]
         },
         {
-          "name": "Seri Manjong",
+          "name": "Seri Manjung",
           "postcode": ["32040", "32050"]
         },
         {
@@ -2316,7 +2313,7 @@
           "postcode": ["35350"]
         },
         {
-          "name": "Tldm Lumut",
+          "name": "TLDM Lumut",
           "postcode": ["32100"]
         },
         {

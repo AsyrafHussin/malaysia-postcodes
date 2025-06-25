@@ -10,11 +10,19 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
   - Fixed "Pusat  Bandar Palong" (removed extra space) to "Pusat Bandar Palong"
 - Fixed formatting in Pahang:
   - Fixed "Bandar Pusat  Jengka" (removed extra space) to "Bandar Pusat Jengka"
+- Updated city names in Perak for accuracy:
+  - Renamed "Seri Manjong" to "Seri Manjung" to match official name
+  - Renamed "Tldm Lumut" to "TLDM Lumut" to match official format
+  - Merged "Mambang Di Awan" postcodes (31920, 31950) into "Kampar"
 
 ### Removed
 
 - Removed invalid postcode entry from Negeri Sembilan:
   - Bandar Baru Serting: `72130` (postcode does not exist - "Bandar Baru Serting" is an alternative name for "Bandar Seri Jempol")
+- Removed invalid postcode entry from Perak:
+  - Rantau Panjang: `42160` (postcode does not exist - 42xxx postcodes belong to Selangor, not Perak)
+- Removed duplicate location entry from Perak:
+  - Mambang Di Awan: merged into "Kampar" as postcodes 31920, 31950 belong to Kampar post office
 
 ## [2025-06-25]
 
