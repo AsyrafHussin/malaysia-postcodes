@@ -8,6 +8,8 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 - Fixed formatting in Negeri Sembilan:
   - Fixed "Pusat  Bandar Palong" (removed extra space) to "Pusat Bandar Palong"
+- Fixed formatting in Pahang:
+  - Fixed "Bandar Pusat  Jengka" (removed extra space) to "Bandar Pusat Jengka"
 
 ### Removed
 
