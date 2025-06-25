@@ -3164,6 +3164,10 @@
           "postcode": ["94950"]
         },
         {
+          "name": "Pusat Mel Miri",
+          "postcode": ["98070"]
+        },
+        {
           "name": "Roban",
           "postcode": ["95300"]
         },
@@ -3190,6 +3194,10 @@
         {
           "name": "Sibu",
           "postcode": ["96000", "96007", "96008", "96009"]
+        },
+        {
+          "name": "Sibu Jaya",
+          "postcode": ["96010"]
         },
         {
           "name": "Siburan",

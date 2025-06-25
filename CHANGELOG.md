@@ -8,6 +8,9 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 - Added missing location to Sabah:
   - Tenghilan: `89260`
+- Added missing locations to Sarawak:
+  - Pusat Mel Miri: `98070`
+  - Sibu Jaya: `96010`
 
 ### Updated
 
