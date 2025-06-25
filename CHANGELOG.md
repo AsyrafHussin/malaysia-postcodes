@@ -4,6 +4,11 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 ## [2025-06-26]
 
+### Added
+
+- Added missing location to Sabah:
+  - Tenghilan: `89260`
+
 ### Updated
 
 - Fixed formatting in Negeri Sembilan:
