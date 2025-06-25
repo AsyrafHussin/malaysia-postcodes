@@ -2,6 +2,18 @@
 
 This changelog documents all notable changes to the `malaysia-postcodes` repository.
 
+## [2025-06-25]
+
+### Updated
+
+- Updated city names in Johor for accuracy:
+  - Renamed "Nusajaya" to "Iskandar Puteri" to reflect official city name change
+
+### Removed
+
+- Removed invalid postcode entry from Johor:
+  - Ulu Choh: `81150` (postcode does not exist - actual location is "Kampung Bahagia Ulu Choh" under Pekan Nenas with postcode `81500`)
+
 ## [2025-03-10]
 
 ### Added
