@@ -44,7 +44,7 @@ The data is structured in JSON, and the format is as follows:
 - [Melaka](Melaka.json)
 - [Negeri Sembilan](negeri_sembilan.json)
 - [Pahang](pahang.json)
-- [Penang](penang.json)
+- [Pulau Pinang](pulau_pinang.json)
 - [Perak](perak.json)
 - [Perlis](perlis.json)
 - [Putrajaya](putrajaya.json)
@@ -57,9 +57,13 @@ The data is structured in JSON, and the format is as follows:
 
 For the latest updates, see the [Changelog](CHANGELOG.md).
 
+- [Complete coverage review and fixes for multiple states (2025-06-26)](CHANGELOG.md#2025-06-26)
+  - Added missing locations: Tenghilan (Sabah), Pusat Mel Miri & Sibu Jaya (Sarawak)
+  - Renamed Penang to official name "Pulau Pinang" and updated file name
+  - Fixed formatting issues in Negeri Sembilan, Pahang, and Perak
+  - Removed invalid postcodes and corrected city names across multiple states
 - [Added new postcode for TRX (Tun Razak Exchange) in Kuala Lumpur (2025-03-10)](CHANGELOG.md#2025-03-10)
 - [Removed incorrect-length postcodes from various cities (2023-08-27)](CHANGELOG.md#2023-08-27)
-- [Updated previously missing postcodes for several cities in Melaka (2023-08-20)](CHANGELOG.md#2023-08-20)
 
 ## NPM
 
