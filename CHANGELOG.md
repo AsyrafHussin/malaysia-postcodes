@@ -14,6 +14,7 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 ### Updated
 
+- Renamed state from "Penang" to "Pulau Pinang" and renamed file from penang.json to pulau_pinang.json
 - Fixed formatting in Negeri Sembilan:
   - Fixed "Pusat  Bandar Palong" (removed extra space) to "Pusat Bandar Palong"
 - Fixed formatting in Pahang:
