@@ -2,6 +2,16 @@
 
 This changelog documents all notable changes to the `malaysia-postcodes` repository.
 
+## [2025-06-27]
+
+### Removed
+
+- Removed invalid postcode entries from Pulau Pinang:
+  - Butterworth: `12344`, `12345`, `13030` (postcodes do not exist)
+  - Bayan Lepas: `11902` (postcode does not exist)
+  - Perai: `13690` (postcode does not exist)
+  - Pulau Pinang: `10020`, `10110`, `10160`, `10420`, `10520`, `10668`, `11460` (postcodes do not exist)
+
 ## [2025-06-26]
 
 ### Added
