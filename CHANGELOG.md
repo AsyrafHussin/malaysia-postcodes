@@ -4,6 +4,11 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
 
 ## [2025-06-27]
 
+### Added
+
+- Added missing postcode to Johor:
+  - Iskandar Puteri: `79050`
+
 ### Removed
 
 - Removed invalid postcode entries from Pulau Pinang:
@@ -11,6 +16,8 @@ This changelog documents all notable changes to the `malaysia-postcodes` reposit
   - Bayan Lepas: `11902` (postcode does not exist)
   - Perai: `13690` (postcode does not exist)
   - Pulau Pinang: `10020`, `10110`, `10160`, `10420`, `10520`, `10668`, `11460` (postcodes do not exist)
+- Removed incorrect postcode from Johor:
+  - Pekan Nenas: `71590`
 
 ## [2025-06-26]
 
