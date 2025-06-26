@@ -57,6 +57,10 @@ The data is structured in JSON, and the format is as follows:
 
 For the latest updates, see the [Changelog](CHANGELOG.md).
 
+- [Postcode data accuracy improvements for Pulau Pinang and Johor (2025-06-27)](CHANGELOG.md#2025-06-27)
+  - Added missing postcode 79050 to Iskandar Puteri (Johor)
+  - Removed 12 invalid postcodes from Pulau Pinang cities to match official reference
+  - Removed incorrect postcode 71590 from Pekan Nenas (Johor)
 - [Complete coverage review and fixes for multiple states (2025-06-26)](CHANGELOG.md#2025-06-26)
   - Added missing locations: Tenghilan (Sabah), Pusat Mel Miri & Sibu Jaya (Sarawak)
   - Renamed Penang to official name "Pulau Pinang" and updated file name
