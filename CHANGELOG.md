@@ -2,6 +2,17 @@
 
 This changelog documents all notable changes to the `malaysia-postcodes` repository.
 
+## [2025-12-28]
+
+### Added
+
+- Added new postcode for Ibrahim International Business District (IIBD) in Johor:
+  - Ibrahim International Business District: `80888`
+  - Effective date: 1 January 2025
+  - Approved by Johor Menteri Besar on 24 March 2024
+  - Official notification from Majlis Bandaraya Johor Bahru (MBJB) dated 15 December 2024
+  - This area was formerly known as Johor Bahru City Centre (JBCC)
+
 ## [2025-06-27]
 
 ### Added

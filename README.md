@@ -41,7 +41,7 @@ The data is structured in JSON, and the format is as follows:
 - [Kelantan](kelantan.json)
 - [Kuala Lumpur](kuala_lumpur.json)
 - [Labuan](labuan.json)
-- [Melaka](Melaka.json)
+- [Melaka](melaka.json)
 - [Negeri Sembilan](negeri_sembilan.json)
 - [Pahang](pahang.json)
 - [Pulau Pinang](pulau_pinang.json)
@@ -57,6 +57,7 @@ The data is structured in JSON, and the format is as follows:
 
 For the latest updates, see the [Changelog](CHANGELOG.md).
 
+- [Added new postcode 80888 for Ibrahim International Business District (IIBD) in Johor (2025-12-28)](CHANGELOG.md#2025-12-28)
 - [Postcode data accuracy improvements for Pulau Pinang and Johor (2025-06-27)](CHANGELOG.md#2025-06-27)
   - Added missing postcode 79050 to Iskandar Puteri (Johor)
   - Removed 12 invalid postcodes from Pulau Pinang cities to match official reference
